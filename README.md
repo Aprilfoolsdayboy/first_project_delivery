@@ -7,4 +7,4 @@ Windows 10, VSCODE, DBEAVER
 java, gradle, springboot, jpa, mysql
 - 코드 및 버전관리 
 git
-- 협업 툴 slack
+- 협업 툴 slack notion
